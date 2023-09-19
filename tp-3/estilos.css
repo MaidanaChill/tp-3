@@ -1,33 +1,54 @@
 /* Estilos para la página web */
-body {  
-    background-color: #f8f8f8;  
+body {
+    background-color: #443a3a;
     font-size: 16px;
-    }
+}
 
-    h1 {  
-        font-size: 36px;  
-        color: #000000;
-        }
-        
-        .encabezado {  
-            text-align: center;  
-            text-transform: uppercase;  
-            font-weight: bold;  
-            font-size: 42px;
-            }
+h1 {
+    font-size: 36px;
+    color: #267e76;
+}
 
-
-            .parrafo {  
-                text-align: justify;  
-                text-transform: capitalize;  
-                font-size: 24px;
-                }
-
-                #fondo {  
-                    background-color: #a031b6; /* modificar el color a elección */
-                    }
-                    
+.encabezado {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 42px;
+}
 
 
+.parrafo {
+    text-align: justify;
+    text-transform: capitalize;
+    font-size: 24px;
+}
 
-                
+#fondo {
+    background-color: #72676b;
+    /* modificar el color a elección */
+}
+
+.link {
+    color: #116146;
+    text-decoration: none;
+}
+
+/* Se modifica el color y la letra del texto con el link*/
+
+
+
+.p1{
+    font-size:10px;
+}
+
+.p2{
+    letter-spacing:4px;
+}
+
+.p3{
+    line-height: 15px;
+}
+
+.p4{
+    font-style:oblique;
+}
